@@ -21,7 +21,7 @@ const Renovation = () => {
                 distinct commercial advantage. From the earliest point in any transaction our insight, analysis and market knowledge can 
                 save you money as well as identifying and managing your exposure to risk.
                 We approach technical due diligence intelligently and thoughtfully, scrutinising every aspect of the property, leaving no 
-                stone unturned. We analyse each aspect – and each property in a portfolio – individually and from every perspective.
+                stone unturned. We analyse each aspect – and each property in a portfolio – individually.
                 <br /><br />
                 It's excellence in leadership when everyone wants to manufacture a black shoe and you manufacture a designer black 
                 shoe with gold medal on top. Do something new; do something better!.
