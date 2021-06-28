@@ -6,7 +6,7 @@ import Hero from '../components/home/Hero';
 import Projects from '../components/home/Projects';
 import ServicesSection from '../components/home/Services';
 import Partners from '../components/home/Partners';
-import Contact from '../components/home/Contact';
+// import Contact from '../components/home/Contact';
 import Footer from '../components/Footer';
 import Testimonial from '../components/Testimonial';
 
